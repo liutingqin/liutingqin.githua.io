@@ -1,2 +1,2 @@
-# liutingqin.githua.io
+# liutingqin.github.io
 我的博客
